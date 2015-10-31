@@ -1,4 +1,4 @@
-/*
+﻿/*
  * DoubleLinkedList.h
  *
  *  Created on: Jul 30, 2015

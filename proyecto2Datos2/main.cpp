@@ -1,6 +1,6 @@
 #include "mainwindow.h"
 #include <QApplication>
-#include <gui.h>
+
 using namespace std;
 
 MainWindow* w;
@@ -15,8 +15,3 @@ int main(int argc, char *argv[])
 
     return a.exec();
 }
-
-
-
-
-
